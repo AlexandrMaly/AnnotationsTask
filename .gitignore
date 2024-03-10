@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/Annotations-task.iml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/out/production/Annotations-task/app/Product.class
+/out/production/Annotations-task/app/ProductHandler.class
+/out/production/Annotations-task/app/ProductInfo.class
+/.idea/vcs.xml
+/.idea/workspace.xml
+/README.txt
